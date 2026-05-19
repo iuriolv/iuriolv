@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Iuri Oliveira
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Full Stack`**
 
-Me chamo Iuri de Oliveira Silva, tenho 27 anos e sou natural de Minas Gerais. Concluí o ensino médio no Colégio dos Jesuítas. Atualmente, estou cursando Ciência da Coputação na UNIAN, além de também estar realizando o curso de Desenvolvedor back-end Python na Ebac.".
+Me chamo Iuri de Oliveira Silva, tenho 27 anos e sou natural de Minas Gerais. Concluí o ensino médio no Colégio dos Jesuítas. Atualmente, estou cursando Ciência da Computação na UNIAN, além de também estar realizando o curso de Desenvolvedor Full Stack Python na Ebac.
 
 <p>
     <a href="https://github.com/iuriolv?tab=followers">
