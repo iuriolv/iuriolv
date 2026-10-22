@@ -73,10 +73,12 @@ Me chamo Iuri de Oliveira Silva, tenho 27 anos e sou natural de Minas Gerais. Co
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=iuriolv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=iuriolv&show_icons=true&theme=tokyonight&include_all_commits=true"
+    alt="Estatísticas do GitHub"
   />
   <img
     width="41%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iuriolv&layout=compact&langs_count=7&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=iuriolv&layout=compact&langs_count=7&theme=tokyonight"
+    alt="Linguagens mais utilizadas"
   />
 </p>
