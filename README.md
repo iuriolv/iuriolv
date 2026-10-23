@@ -1,8 +1,9 @@
 # 👩🏻‍💻 Iuri Oliveira
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Full Stack Python | Back-end em formação`**
 
-Me chamo Iuri de Oliveira Silva, tenho 27 anos e sou natural de Minas Gerais. Concluí o ensino médio no Colégio dos Jesuítas. Atualmente, estou cursando Ciência da Computação na UNIAN, além de também estar realizando o curso de Desenvolvedor Full Stack Python na Ebac.
+    Olá! Meu nome é Iuri de Oliveira Silva, sou de Minas Gerais e sou estudante de Ciência da Computação na UNIAN, além de estar me especializando em Desenvolvimento Full Stack Python pela EBAC.
+    Tenho interesse em desenvolvimento de software, principalmente na construção de APIs, aplicações back-end e integração entre sistemas. Durante meus estudos, venho desenvolvendo projetos práticos com Python, FastAPI, SQLAlchemy e bancos de dados, buscando aprimorar minhas habilidades em programação, organização de código e boas práticas de desenvolvimento.
 
 <p>
     <a href="https://github.com/iuriolv?tab=followers">
