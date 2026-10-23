@@ -2,10 +2,9 @@
 
 **`Desenvolvedor Full Stack Python | Back-end em formação`**
 
-    Olá! Meu nome é Iuri de Oliveira Silva, sou de Minas Gerais e sou estudante de Ciência da Computação na UNIAN, além de
+Olá! Meu nome é Iuri de Oliveira Silva, sou de Minas Gerais e sou estudante de Ciência da Computação na UNIAN, além de
 estar me especializando em Desenvolvimento Full Stack Python pela EBAC.
-
-    Tenho interesse em desenvolvimento de software, principalmente na construção de APIs, aplicações back-end e
+Tenho interesse em desenvolvimento de software, principalmente na construção de APIs, aplicações back-end e
 integração entre sistemas. Durante meus estudos, venho desenvolvendo projetos práticos com Python, FastAPI, SQLAlchemy e
 bancos de dados, buscando aprimorar minhas habilidades em programação, organização de código e boas práticas de desenvolvimento.
 
